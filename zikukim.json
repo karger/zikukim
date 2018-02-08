@@ -3,7 +3,8 @@
 	"member": [
 		{
 			"name": "David",
-			"description": "an old dancer"
+			"description": "an old dancer",
+			"headshot": "http://people.csail.mit.edu/karger/karger.jpg"
 		}
 	],
 	"video": [
