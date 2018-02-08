@@ -12,9 +12,16 @@
 		}
 	],
 	"performance": [
-		{}
+		{
+			"event": "Boston Festival",
+			"venue": "Kresge Auditorium",
+			"date": "2018-04-08"
+		}
 	],
 	"alumni": [
-		{}
+		{
+			"name": "Riki",
+			"description": "She's gone away"
+		}
 	]
 }
